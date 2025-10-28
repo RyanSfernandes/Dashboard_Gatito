@@ -54,5 +54,4 @@ Analisar sazonalidade e tendências
 Suportar tomada de decisão estratégica
 
 🔗 Acesso ao Dashboard
-Print dashboard:https://github.com/RyanSfernandes/Dashboard_Gatito/blob/main/dashboard_gatito.png
 Versão Interativa:https://app.powerbi.com/view?r=eyJrIjoiYzIyZDg2MTUtMmM3MC00ZGFlLWEwMWYtNDdkZDExOGQyYzRlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
